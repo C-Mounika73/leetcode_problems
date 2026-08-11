@@ -9,3 +9,19 @@ My solutions to LeetCode problems implemented in C.
 ## Goal
 
 To stay consistent with coding practice, strengthen DSA concepts, and improve problem-solving skills.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+<!---LeetCode Topics End-->
