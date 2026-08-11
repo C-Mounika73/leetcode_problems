@@ -15,6 +15,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -24,4 +25,24 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
