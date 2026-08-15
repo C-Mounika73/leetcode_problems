@@ -19,6 +19,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | [2213-longest-substring-of-one-repeating-character](https://github.com/C-Mounika73/leetcode_problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/C-Mounika73/leetcode_problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/C-Mounika73/leetcode_problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,8 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/C-Mounika73/leetcode_problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/C-Mounika73/leetcode_problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 <!---LeetCode Topics End-->
