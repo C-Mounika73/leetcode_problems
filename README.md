@@ -16,6 +16,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
+| [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/C-Mounika73/leetcode_problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/C-Mounika73/leetcode_problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -35,11 +36,13 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
+| [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
+| [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +52,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
+| [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
