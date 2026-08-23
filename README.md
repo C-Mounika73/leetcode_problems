@@ -43,6 +43,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | ------- | ------- |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/C-Mounika73/leetcode_problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/C-Mounika73/leetcode_problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -61,6 +62,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | ------- | ------- |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -75,6 +77,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/C-Mounika73/leetcode_problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/C-Mounika73/leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Segment Tree
@@ -95,6 +98,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/C-Mounika73/leetcode_problems/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1927-sum-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
