@@ -18,6 +18,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/C-Mounika73/leetcode_problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/C-Mounika73/leetcode_problems/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/C-Mounika73/leetcode_problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/C-Mounika73/leetcode_problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -43,6 +44,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | ------- | ------- |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/C-Mounika73/leetcode_problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/C-Mounika73/leetcode_problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -52,22 +54,26 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | ------- | ------- |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/C-Mounika73/leetcode_problems/tree/main/1872-stone-game-viii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
+| [1872-stone-game-viii](https://github.com/C-Mounika73/leetcode_problems/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/C-Mounika73/leetcode_problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
+| [1872-stone-game-viii](https://github.com/C-Mounika73/leetcode_problems/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -124,4 +130,8 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/C-Mounika73/leetcode_problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/C-Mounika73/leetcode_problems/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
