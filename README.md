@@ -37,6 +37,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/C-Mounika73/leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/C-Mounika73/leetcode_problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/C-Mounika73/leetcode_problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | [2213-longest-substring-of-one-repeating-character](https://github.com/C-Mounika73/leetcode_problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/C-Mounika73/leetcode_problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/C-Mounika73/leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,10 +112,12 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | [1386-cinema-seat-allocation](https://github.com/C-Mounika73/leetcode_problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +142,8 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/C-Mounika73/leetcode_problems/tree/main/1872-stone-game-viii/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 <!---LeetCode Topics End-->
