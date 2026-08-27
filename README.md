@@ -45,6 +45,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/C-Mounika73/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/C-Mounika73/leetcode_problems/tree/main/1872-stone-game-viii/) | Hard |
@@ -146,4 +147,12 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/C-Mounika73/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/C-Mounika73/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
