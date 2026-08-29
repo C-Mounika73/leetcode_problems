@@ -21,6 +21,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | [1872-stone-game-viii](https://github.com/C-Mounika73/leetcode_problems/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/C-Mounika73/leetcode_problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/C-Mounika73/leetcode_problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/C-Mounika73/leetcode_problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/C-Mounika73/leetcode_problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -41,6 +42,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/C-Mounika73/leetcode_problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -161,4 +163,8 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/C-Mounika73/leetcode_problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 <!---LeetCode Topics End-->
