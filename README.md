@@ -20,6 +20,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/C-Mounika73/leetcode_problems/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/C-Mounika73/leetcode_problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/C-Mounika73/leetcode_problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/C-Mounika73/leetcode_problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/C-Mounika73/leetcode_problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -116,6 +117,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | [1386-cinema-seat-allocation](https://github.com/C-Mounika73/leetcode_problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/C-Mounika73/leetcode_problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
