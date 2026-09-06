@@ -1,6 +1,6 @@
 class Solution:
     def numDistinct(self, s: str, t: str) -> int:
-        cache ={}
+        '''cache ={}
 
         def dfs(i,j):
             if j==len(t):
@@ -16,4 +16,13 @@ class Solution:
                 cache[(i,j)]=dfs(i+1,j)
             return cache[(i,j)]
         
-        return dfs(0,0)
+        return dfs(0,0)'''
+
+        dp=[0]*(len(t)+1)
+        dp[0]=1
+
+        for i in range(len(s)):
+            for j in range(len(t),0,-1):
+                if s[i]==t[j-1]:
+                    dp[j]+=dp[j-1]
+        return dp[len(t)]
