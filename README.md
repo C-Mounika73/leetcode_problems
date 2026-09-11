@@ -28,6 +28,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/C-Mounika73/leetcode_problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/C-Mounika73/leetcode_problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/C-Mounika73/leetcode_problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/C-Mounika73/leetcode_problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/C-Mounika73/leetcode_problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/C-Mounika73/leetcode_problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/C-Mounika73/leetcode_problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -43,6 +44,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/C-Mounika73/leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/C-Mounika73/leetcode_problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/C-Mounika73/leetcode_problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/C-Mounika73/leetcode_problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/C-Mounika73/leetcode_problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -168,6 +170,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/C-Mounika73/leetcode_problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Linked List
@@ -179,6 +182,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/C-Mounika73/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/C-Mounika73/leetcode_problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
