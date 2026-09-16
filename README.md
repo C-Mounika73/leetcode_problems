@@ -18,6 +18,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/C-Mounika73/leetcode_problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/C-Mounika73/leetcode_problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1872-stone-game-viii](https://github.com/C-Mounika73/leetcode_problems/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/C-Mounika73/leetcode_problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
