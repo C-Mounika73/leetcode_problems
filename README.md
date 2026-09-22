@@ -58,6 +58,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/C-Mounika73/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/C-Mounika73/leetcode_problems/tree/main/0009-palindrome-number/) | Easy |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/C-Mounika73/leetcode_problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
