@@ -15,6 +15,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/C-Mounika73/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/C-Mounika73/leetcode_problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
@@ -194,6 +195,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/C-Mounika73/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
