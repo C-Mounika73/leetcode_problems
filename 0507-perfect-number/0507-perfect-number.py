@@ -1,6 +1,7 @@
 class Solution:
     def checkPerfectNumber(self, num: int) -> bool:
-        if num <= 1:
+        return num in [6,28,496,8128,33550336]
+        '''if num <= 1:
             return False
 
         total = 1
@@ -15,4 +16,4 @@ class Solution:
 
             i += 1
 
-        return total == num
+        return total == num'''
