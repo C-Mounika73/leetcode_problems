@@ -16,6 +16,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/C-Mounika73/leetcode_problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0204-count-primes](https://github.com/C-Mounika73/leetcode_problems/tree/main/0204-count-primes/) | Medium |
 | [0283-move-zeroes](https://github.com/C-Mounika73/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/C-Mounika73/leetcode_problems/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -61,6 +62,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/C-Mounika73/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/C-Mounika73/leetcode_problems/tree/main/0009-palindrome-number/) | Easy |
+| [0204-count-primes](https://github.com/C-Mounika73/leetcode_problems/tree/main/0204-count-primes/) | Medium |
 | [0507-perfect-number](https://github.com/C-Mounika73/leetcode_problems/tree/main/0507-perfect-number/) | Easy |
 | [0877-stone-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1563-stone-game-v](https://github.com/C-Mounika73/leetcode_problems/tree/main/1563-stone-game-v/) | Hard |
@@ -170,6 +172,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/C-Mounika73/leetcode_problems/tree/main/0204-count-primes/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/C-Mounika73/leetcode_problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -181,6 +184,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/C-Mounika73/leetcode_problems/tree/main/0204-count-primes/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/C-Mounika73/leetcode_problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -224,4 +228,16 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/C-Mounika73/leetcode_problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/C-Mounika73/leetcode_problems/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/C-Mounika73/leetcode_problems/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/C-Mounika73/leetcode_problems/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
