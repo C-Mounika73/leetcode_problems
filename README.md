@@ -116,6 +116,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/C-Mounika73/leetcode_problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/C-Mounika73/leetcode_problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/C-Mounika73/leetcode_problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1927-sum-game](https://github.com/C-Mounika73/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/C-Mounika73/leetcode_problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/C-Mounika73/leetcode_problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -240,4 +241,12 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/C-Mounika73/leetcode_problems/tree/main/0204-count-primes/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/C-Mounika73/leetcode_problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/C-Mounika73/leetcode_problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
