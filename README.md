@@ -43,6 +43,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/C-Mounika73/leetcode_problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/C-Mounika73/leetcode_problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/C-Mounika73/leetcode_problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -108,12 +109,14 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/C-Mounika73/leetcode_problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/C-Mounika73/leetcode_problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/C-Mounika73/leetcode_problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/C-Mounika73/leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/C-Mounika73/leetcode_problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0115-distinct-subsequences](https://github.com/C-Mounika73/leetcode_problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/C-Mounika73/leetcode_problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/C-Mounika73/leetcode_problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
