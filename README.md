@@ -15,6 +15,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/C-Mounika73/leetcode_problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0204-count-primes](https://github.com/C-Mounika73/leetcode_problems/tree/main/0204-count-primes/) | Medium |
 | [0283-move-zeroes](https://github.com/C-Mounika73/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
@@ -57,6 +58,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/0015-3sum/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/C-Mounika73/leetcode_problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Math
@@ -207,6 +209,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/C-Mounika73/leetcode_problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/C-Mounika73/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
