@@ -38,6 +38,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/C-Mounika73/leetcode_problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/C-Mounika73/leetcode_problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/C-Mounika73/leetcode_problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/C-Mounika73/leetcode_problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/C-Mounika73/leetcode_problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/C-Mounika73/leetcode_problems/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/C-Mounika73/leetcode_problems/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -61,6 +62,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | [0015-3sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/0015-3sum/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/C-Mounika73/leetcode_problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/C-Mounika73/leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/C-Mounika73/leetcode_problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@ To stay consistent with coding practice, strengthen DSA concepts, and improve pr
 | [2029-stone-game-ix](https://github.com/C-Mounika73/leetcode_problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/C-Mounika73/leetcode_problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/C-Mounika73/leetcode_problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/C-Mounika73/leetcode_problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
